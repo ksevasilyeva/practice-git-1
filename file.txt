@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Berlin is the capital of Germany
+another line to see changes not staget for commit
